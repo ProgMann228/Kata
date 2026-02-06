@@ -128,6 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp" />
+    <ClCompile Include="Disemvowel_Trolls.cpp" />
+    <ClCompile Include="Simple_prime_streaming.cpp" />
+    <ClCompile Include="Toggle_Set_Clear_Bits.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
